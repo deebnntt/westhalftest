@@ -1,0 +1,2 @@
+[25-Oct-2017 17:31:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/reawebmaster/public_html/westhalf.com/new/data/connect.php on line 8
+[25-Oct-2017 17:31:34 UTC] PHP Notice:  Undefined variable: data in /home/reawebmaster/public_html/westhalf.com/new/data/westhalf-data.php on line 27

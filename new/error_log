@@ -1,0 +1,1 @@
+[25-Oct-2017 17:28:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/reawebmaster/public_html/westhalf.com/new/connect.php on line 8

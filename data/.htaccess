@@ -1,0 +1,4 @@
+AuthName "data"
+AuthUserFile "/home/reawebmaster/.htpasswds/public_html/westhalf.com/data/passwd"
+AuthType Basic
+require valid-user
